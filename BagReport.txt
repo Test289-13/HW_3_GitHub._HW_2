@@ -1,0 +1,5 @@
+-ID
+-Summary
+-Steps to reproduce
+-Description (included Actual and Expected results)
+-Environment
